@@ -1,1 +1,0 @@
-To run this test, a valid QuickTime file needs to exist at assets/test.mov

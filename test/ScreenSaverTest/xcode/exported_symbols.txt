@@ -1,2 +1,0 @@
- _OBJC_CLASS_$_WindowImplCocoaScreenSaver_ScreenSaverTest
- 

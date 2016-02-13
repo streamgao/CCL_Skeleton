@@ -1,0 +1,41 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: verdanda;
+}
+audio, canvas, video { 
+	display: inline-block; 
+	display: inline; 
+	zoom: 1; 
+}
+
+.container{
+	height: 100%;
+	width: 100%;
+	top: 0%;
+	left: 0%;
+	float: left;
+	position: absolute;
+}
+
+#scanvas{
+	width: 100%;
+	height: 100%;
+	background: url(img/stream.gif) center center no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+}
+
+#gaoshanliushui{
+	height: 0;
+	width: 0;
+}
+
+.splash{
+	width: 300px;
+	height: 300px;
+	/*background:url(img/splash/splash0.png) center center no-repeat;
+	background-size: 100% 100%;*/
+	z-index: 1;
+	position: absolute;
+}
